@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "/home/xlazer/Documents/github/stackup/food",
     "ignore": [
       "firebase.json",
       "**/.*",
